@@ -1,0 +1,17 @@
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\bin\Debug\VismaBlackJack.exe.config
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\bin\Debug\VismaBlackJack.exe
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\bin\Debug\VismaBlackJack.pdb
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\VismaBlackJack.csprojAssemblyReference.cache
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\MainWindow.g.cs
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\App.g.cs
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\VismaBlackJack_MarkupCompile.cache
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\VismaBlackJack_MarkupCompile.lref
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\MainWindow.baml
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\VismaBlackJack.g.resources
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\VismaBlackJack.Properties.Resources.resources
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\VismaBlackJack.csproj.GenerateResource.cache
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\VismaBlackJack.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\VismaBlackJack.exe
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\VismaBlackJack.pdb
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\GameWindow.g.cs
+C:\Users\David\source\repos\VismaBlackJack\VismaBlackJack\obj\Debug\GameWindow.baml
